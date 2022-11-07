@@ -1,0 +1,5 @@
+print("helloWorld")
+print("0----")
+print(" ||||")
+print("*" * 10)
+print("hello " + " " + input("what is your name?"))
